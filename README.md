@@ -3,7 +3,7 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://andrian.vercel.app/img/animation_gif.gif">
-- 🔭 I’m currently working on **Pegaw.ai**
+- 🔭 I’m currently working at **PHINCON**
 
 - 🌱 I’m currently learning **Web design & Front end Framework like :AngularJS,Tailwind,React,Laravel**
 
