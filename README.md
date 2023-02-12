@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Enthusiast</h3>
 
 
-<img align="right" alt="Coding" width="450" src="https://andrian.vercel.app/img/animation_gif.gif">
+<img align="right" alt="Coding" width="380" src="https://andrian.vercel.app/img/animation_gif.gif">
 <h3 align="left">Currently learning/Develop:</h3>
 
 - 🔭 Web Development Enthusiasm (Especially in Web Design)
