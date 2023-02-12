@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andrian</h1>
-<h3 align="center">Web Designer and Front end Enthusiasm</h3>
+<h3 align="center">Computer Science Enthusiast</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://andrian.vercel.app/img/animation_gif.gif">
-- 🔭 I’m currently working at **PHINCON**
+<img align="right" alt="Coding" width="380" src="https://andrian.vercel.app/img/animation_gif.gif">
+<h3 align="left">Currently learning/Develop:</h3>
+
+- 🔭 Web Development Enthusiasm (Especially in Web Design)
 
 - ⚡ I’m currently learning **Web design & Front end Framework like :AngularJS,Bootstrap,Tailwind,Laravel,React & Wordpress**
 
