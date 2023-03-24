@@ -9,7 +9,7 @@
 
 - ⚡ I’m currently learning **Web design & Front end Framework like :AngularJS,Bootstrap,Tailwind,Laravel,React & Wordpress**
 
-- 👨‍💻 All of my projects are available at [https://andrian.vercel.app/](https://andrian.vercel.app/)
+- 👨‍💻 See my personal website at [https://andrian.vercel.app/](https://andrian.vercel.app/)
 
 - 📫 How to reach me **andrianlimnardy@gmail.com**
 
