@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **andrianlimnardy@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/andrian-l-707884223/](https://www.linkedin.com/in/andrian-limnardy/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/andrian-limnardy/](https://www.linkedin.com/in/andrian-limnardy/)
 
 <h3>🙋‍♂️ Contact me:  </h3>
 <p align="left">
