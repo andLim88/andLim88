@@ -10,7 +10,7 @@
 
 
   
-<h3 align="center">Web Designer/ Frontend Development Enthusiast</h3>
+<h3 align="center">Web Designer / Frontend Development Enthusiast</h3>
 
 
 <img align="right" alt="Coding" width="380" src="https://andrian.vercel.app/img/animation_gif.gif">
