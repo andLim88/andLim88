@@ -2,11 +2,12 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=33&pause=1000&color=1F22F7&center=true&vCenter=true&width=435&lines=Hi++%F0%9F%91%8B+++I'm+Andrian" alt="Typing SVG" /></h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrian-limnardy/)
-[![Gmail](https://img.shields.io/badge/Gmail-4285f4?style=for-the-badge&logo=gmail&logoColor=)](mailto:andrianlimnardy@gmail.com)
-[![Website](https://img.shields.io/badge/website-CCCCCC?style=for-the-badge&logo=About.me&logoColor=black)](https://andrian.vercel.app/)
-[![Discord](https://img.shields.io/badge/contact-me-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/454501799353909252.)
+[![Gmail](https://img.shields.io/badge/Gmail-f28500?style=for-the-badge&logo=gmail&logoColor=)](mailto:andrianlimnardy@gmail.com)
+[![Website](https://img.shields.io/badge/Personal%20Website-CCCCCC?style=for-the-badge&logo=About.me&logoColor=black)](https://andrian.vercel.app/)
+[![Discord](https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/454501799353909252.)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/and-lim)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/andrian_L)
+[![Figma](https://img.shields.io/badge/Figma-F06292?style=for-the-badge&logo=figma&logoColor=black)](https://www.figma.com/@and_lim)
 
 
   
