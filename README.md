@@ -70,8 +70,8 @@
 <hr>
 
 <h3 align="left">My stats:  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=and-lim&theme=tokyonight&show_icons=true&locale=en&layout=compact&langs_count=8" alt="and-lim" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andLim88&theme=tokyonight&show_icons=true&locale=en&layout=compact&langs_count=8" alt="and-lim" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=and-lim&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" alt="and-lim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=and-lim&theme=tokyonight&rank_icon=github" alt="and-lim" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andLim88&theme=tokyonight&rank_icon=github" alt="and-lim" /></p>
