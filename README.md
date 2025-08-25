@@ -27,14 +27,14 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/andrian-limnardy/](https://www.linkedin.com/in/andrian-limnardy/)
 
-<h3>🙋‍♂️ Contact me:  </h3>
-<p align="left">
+
+<!-- <p align="left">
 <a href="mailto:andrianlimnardy@gmail.com" target="blank"><img align="left" src="https://camo.githubusercontent.com/598902b81c020e27505970e729fc974b79d83695c043123c9b4e05aeed2872f1/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f372f37652f476d61696c5f69636f6e5f253238323032302532392e737667" alt="gmail" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/andrian-limnardy-707884223/" target="blank"><img align="center" src="https://camo.githubusercontent.com/7d098804c02a4095d49849d1e868ae35a22668f8c2047f27232508256a1cd43e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63612f4c696e6b6564496e5f6c6f676f5f696e697469616c732e706e67" alt="andrian l" height="30" width="30" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoy.the.hazard10" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <hr>
 
